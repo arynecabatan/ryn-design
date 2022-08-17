@@ -1,0 +1,44 @@
+{
+  "name": "ryn-design",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ryn-design",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "@react-icons/all-files": "^4.1.0",
+    "babel-plugin-styled-components": "^2.0.7",
+    "gatsby": "^4.20.0",
+    "gatsby-plugin-anchor-links": "^1.2.1",
+    "gatsby-plugin-image": "^2.20.0",
+    "gatsby-plugin-layout": "^3.20.0",
+    "gatsby-plugin-mdx": "^3.20.0",
+    "gatsby-plugin-react-helmet": "^5.20.0",
+    "gatsby-plugin-sharp": "^4.20.0",
+    "gatsby-plugin-styled-components": "^5.20.0",
+    "gatsby-source-filesystem": "^4.20.0",
+    "gatsby-transformer-sharp": "^4.20.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^6.1.0",
+    "react-hot-toast": "^2.3.0",
+    "react-icons": "^4.4.0",
+    "react-lottie-player": "^1.4.3",
+    "react-particles": "^2.1.4",
+    "react-tsparticles": "^2.1.4",
+    "styled-components": "^5.3.5",
+    "tsparticles": "^2.1.4",
+    "typeface-source-sans-pro": "^1.1.13"
+  }
+}
